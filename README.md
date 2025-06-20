@@ -1,4 +1,5 @@
 # prettierrc
+```
 {
   "$schema": "https://json.schemastore.org/prettierrc",
   "arrowParens": "always", // 箭头函数参数括号: "always" - 总是包含括号 (示例: `(x) => x`), "avoid" - 尽可能省略括号 (示例: `x => x`)
@@ -39,3 +40,5 @@
     }
   ] // 文件覆盖规则 (按模式自定义格式规则)
 }
+
+```
